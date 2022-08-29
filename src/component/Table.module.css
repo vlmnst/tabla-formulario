@@ -1,0 +1,13 @@
+.cont {
+    width: 70%;
+    height: auto;
+    border: 1px solid lightgray;
+    margin-left: 15%;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+.form {
+    margin: 0 60px;
+    justify-content: center;
+}
