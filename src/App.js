@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState } from 'react';
 import Table from "./component/table.jsx";
 import Header from "./component/header.jsx";
 import Form from "./component/form.jsx";

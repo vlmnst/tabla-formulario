@@ -1,5 +1,5 @@
-import { useState } from 'react'
-import styles from './Table.module.css'
+import { useState } from 'react';
+import styles from './Table.module.css';
 const Form = ({setInfo , info}) => {
     const [newInfo, setNewInfo] = useState({
         nombre: '',
