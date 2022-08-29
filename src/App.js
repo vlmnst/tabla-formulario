@@ -1,7 +1,7 @@
 import { useState } from 'react'
-import Table from "./components/Table";
-import Header from "./components/Header";
-import Form from "./components/Form";
+import Table from "./components/Table.jsx";
+import Header from "./components/Header.jsx";
+import Form from "./components/Form.jsx";
 import { Route, Routes } from "react-router-dom";
 import data from './data.json'
 import './App.css'
